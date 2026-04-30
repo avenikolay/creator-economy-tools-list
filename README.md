@@ -33,6 +33,7 @@ Other AI video tools:
 - **Synthesia** — AI avatar videos from text scripts
 - **HeyGen** — Talking head videos with AI-generated presenters
 - **Pika Labs** — Text-to-video generation
+- **[Cyber Collector](https://t.me/cybercollectorbot)** — Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. Useful for research and repurposing existing content. [Website](https://cybercollector.hitkey.io)
 
 ### Writing & Scripting
 
