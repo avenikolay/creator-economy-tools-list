@@ -110,6 +110,7 @@ Other AI video tools:
 | TubeBuddy | YouTube SEO and channel analytics |
 | VidIQ | Competitor analysis, trending topics |
 | Social Blade | Cross-platform growth tracking |
+| [TKMetrics](https://tkmetrics.com/) | TikTok creator research by typical views and engagement per post |
 | SparkToro | Audience research |
 | Metricool | Unified analytics dashboard |
 
